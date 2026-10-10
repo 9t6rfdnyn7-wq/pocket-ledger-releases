@@ -6,12 +6,22 @@ my finance app
 Pocket-Ledgeri töölauaäpi paigaldajate ja versiooniinfo avalik hoidla.
 Rakenduse lähtekoodi hoitakse eraldi.
 
-Siin ei ole veel avaldatud töölauaäpi väljalaset. Esialgne
-[`updates.json`](updates.json) ei sisalda platvormide kirjeid ega paku
-seetõttu uuendust. Kontrollitud Maci ja Windowsi paigaldajad lisatakse
-[Releases](https://github.com/9t6rfdnyn7-wq/pocket-ledger-releases/releases)
-vaatesse ning iga valmis platvorm saab eraldi versioonikirje.
+Maci [v4.36 testversiooni paigaldaja](https://github.com/9t6rfdnyn7-wq/pocket-ledger-releases/releases/tag/v4.36)
+on avalikult saadaval Releases-vaates. `updates.json` pakub macOS-i
+versiooni 4.36.0 / ehitus 43601. Windowsi paigaldajat selles väljalaskes
+veel ei pakuta.
 
-Rakenduse kasutuslitsentsi tingimused lisatakse enne paigaldajate avalikku
-jagamist. Kaasatud teekide litsentsid ja nõutud teated lisatakse paigaldajate
-juurde.
+Paigaldatud Maci äpp, milles uuenduskanal on seadistatud, kontrollib
+versiooni käivitamisel. Uuem versioon või sama versiooni kõrgem
+tegelik ehitusnumber pakub nuppu „Ava allalaadimine”. Sama või vanemat
+paketti ei pakuta. Paigaldaja allalaadimine ja paigaldamine on käsitsi.
+V4.34 ja varasemad äpid vajavad uuenduskanaliga versiooni esmast
+käsitsi paigaldamist. Veebäppi uuendatakse selle eraldi veebikanalis.
+
+Maci DMG sisaldab PKG-paigaldajat. Avaldatud pakett on kohalikult
+allkirjastatud testpakett; Apple'i notariseerimist selle ehitusega ei tehtud.
+Väljalase on GitHubis märgitud Pre-release'iks. Äpp loeb `updates.json`
+versiooniinfot, seega GitHubi Pre-release märge ei keela selle uuendusteavitust.
+
+Rakenduse kasutustingimuste ning valmis pakenduse litsentsiteabe
+ettevalmistus jätkub. Kaasatud teekide oma litsentsid ja teated säilivad.

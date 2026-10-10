@@ -2,5 +2,12 @@
   "schemaVersion": 1,
   "appId": "com.pocketledger.app",
   "channel": "stable",
-  "platforms": {}
+  "platforms": {
+    "macos": {
+      "version": "4.36.0",
+      "buildNumber": 43601,
+      "ready": true,
+      "downloadUrl": "https://github.com/9t6rfdnyn7-wq/pocket-ledger-releases/releases/download/v4.36/Pocket-Ledger-4.36.0-macOS-universal-test.dmg"
+    }
+  }
 }
