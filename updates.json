@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "appId": "com.pocketledger.app",
+  "channel": "stable",
+  "platforms": {}
+}
