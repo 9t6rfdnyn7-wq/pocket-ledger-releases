@@ -6,12 +6,11 @@ my finance app
 Pocket-Ledgeri töölauaäpi paigaldajate ja versiooniinfo avalik hoidla.
 Rakenduse lähtekoodi hoitakse eraldi.
 
-Maci [v4.36 testversiooni paigaldaja](https://github.com/9t6rfdnyn7-wq/pocket-ledger-releases/releases/tag/v4.36)
-on avalikult saadaval Releases-vaates. `updates.json` pakub macOS-i
-versiooni 4.36.0 / ehitus 43601. Windowsi paigaldajat selles väljalaskes
-veel ei pakuta.
+Maci ja Windowsi [v4.36 testversiooni paigaldajad](https://github.com/9t6rfdnyn7-wq/pocket-ledger-releases/releases/tag/v4.36)
+on avalikult saadaval Releases-vaates. `updates.json` pakub mõlemale
+platvormile versiooni 4.36.0 / ehitus 43601.
 
-Paigaldatud Maci äpp, milles uuenduskanal on seadistatud, kontrollib
+Paigaldatud Maci või Windowsi äpp, milles uuenduskanal on seadistatud, kontrollib
 versiooni käivitamisel. Uuem versioon või sama versiooni kõrgem
 tegelik ehitusnumber pakub nuppu „Ava allalaadimine”. Sama või vanemat
 paketti ei pakuta. Paigaldaja allalaadimine ja paigaldamine on käsitsi.
