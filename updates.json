@@ -11,12 +11,12 @@
       "version": "4.66.0"
     },
     "windows": {
-      "buildNumber": 46501,
-      "bytes": 135585441,
-      "downloadUrl": "https://github.com/9t6rfdnyn7-wq/pocket-ledger-releases/releases/download/v4.65-build46501/Pocket-Ledger-4.65.0-Windows-x64-Setup.exe",
+      "buildNumber": 46601,
+      "bytes": 135629737,
+      "downloadUrl": "https://github.com/9t6rfdnyn7-wq/pocket-ledger-releases/releases/download/v4.66-build46601/Pocket-Ledger-4.66.0-Windows-x64-Setup.exe",
       "ready": true,
-      "sha256": "2f2b6ba5487fd396963bd120e30da5469700030abf326a8dba841c7063dba897",
-      "version": "4.65.0"
+      "sha256": "3e9e7c7c81c544b2847b7fe8ceb53f01a59761b5c3d7e1b86aef6a4f628fba1a",
+      "version": "4.66.0"
     }
   },
   "schemaVersion": 1
