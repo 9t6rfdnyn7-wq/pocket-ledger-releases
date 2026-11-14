@@ -3,12 +3,12 @@
   "channel": "stable",
   "platforms": {
     "macos": {
-      "buildNumber": 47003,
-      "bytes": 30124047,
-      "downloadUrl": "https://github.com/9t6rfdnyn7-wq/pocket-ledger-releases/releases/download/v4.70.2-build47003/Pocket-Ledger-4.70.2-macOS-universal-test.dmg",
+      "buildNumber": 47101,
+      "bytes": 30266105,
+      "downloadUrl": "https://github.com/9t6rfdnyn7-wq/pocket-ledger-releases/releases/download/v4.71-build47101/Pocket-Ledger-4.71.0-macOS-universal-test.dmg",
       "ready": true,
-      "sha256": "424c4f385194b100446d8469839ff55cb9f2fb1937890f0ddf8a753428ba204b",
-      "version": "4.70.2"
+      "sha256": "edbc8899cd69eb4d5cdc3956cc50d85222264317f740e498ee9e1f91a0249f6b",
+      "version": "4.71.0"
     },
     "windows": {
       "buildNumber": 47001,
